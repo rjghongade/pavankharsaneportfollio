@@ -1,7 +1,7 @@
 # **Developer Portfolio**
 ## Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 # **Demo 🎥**
-![image](https://github.com/saurabhnalepatil/portfolio/assets/95145125/27eabea3-dfd6-416d-82eb-cbc3890032c9)
+![image](Screenshot 2024-05-18 004223.png)
 
 # View live preview [here](https://pavankharsaneportfollio-ikql.vercel.app/).
 # **Table of Contents 📜**
