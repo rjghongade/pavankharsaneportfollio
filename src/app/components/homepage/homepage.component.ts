@@ -10,12 +10,12 @@ export class HomepageComponent {
   constructor() { }
 
   downloadResume(): void {
-    const resumePath = 'assets/Saurabh_Nale_Resume.pdf';
+    const resumePath = 'assets/pavan CV.pdf';
 
     const link = document.createElement('a');
     link.setAttribute('target', '_blank');
     link.setAttribute('href', resumePath);
-    link.setAttribute('download', 'resume.pdf');
+    link.setAttribute('download', 'Pavan_Kharsane_Resume.pdf');
 
     document.body.appendChild(link);
     link.click();
