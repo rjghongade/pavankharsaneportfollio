@@ -1,7 +1,7 @@
 # **Developer Portfolio**
 ## Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 # **Demo 🎥**
-![screenshort_1](Screenshot 2024-05-18 004223.png)
+![screenshort_1](1.png)
 
 # View live preview [here](https://pavankharsaneportfollio-ikql.vercel.app/).
 # **Table of Contents 📜**
@@ -65,15 +65,15 @@ NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 Eg:
 ```bash
 export const personalData = {
-  name: "Saurabh Nale",
-  profile: "/profile.png",
+  name: "Rajendra Ghongade",
+  profile: "",
   designation: "Full-Stack Software Developer",
-  description: "My name is SAURABH NALE....",
-  email: "saurabhnalepatil.com",
-  phone: "+91 9511748787",
-  address: "A1 Tower, Pyramid County, Pansare colony, Bhukum, Mulshi 441521",
-  github: "https://github.com/saurabhnalepatil/",
-  linkedIn: "https://www.linkedin.com/in/saurabh-nale-967472216/",
+  description: "My name is Rajendra Ghongade....",
+  email: "",
+  phone: "+91 9022328048",
+  address: "",
+  github: "https://github.com/rjghongade",
+  linkedIn: "https://www.linkedin.com/in/rajendra-ghongade-07b337259/",
   resume: "...",
 };
 ```
