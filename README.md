@@ -6,7 +6,7 @@
 # View live preview [here](https://pavankharsaneportfollio-ikql.vercel.app/).
 # **Table of Contents 📜**
 - **[Sections](#section)**
-- **[Demo](#demo)**
+- **[Demo](https://pavankharsaneportfollio-ikql.vercel.app/)**
 - **[Installation](#installation)**
 - **[Getting Started](#getting-started)**
 - **[Usage](#usage)**
@@ -35,8 +35,7 @@ git --version
 ## Fork and Clone the repo
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 ```bash
-git clone https://github.com/<YOUR GITHUB USERNAME>/portfolio.git
-cd portfolio
+git clone https://github.com/rjghongade/pavankharsaneportfollio.git
 ```
 ## Install packages from the root directory
 ```bash
@@ -91,3 +90,5 @@ Here is a list of packages used in this project:
 | toaster     | Notification library    |
 | css                | CSS preprocessor        |
 | bootstrap         | CSS framework           |
+
+[screen-capture (1).webm](https://github.com/rjghongade/pavankharsaneportfollio/assets/105046011/8ad1e945-b458-490e-b60e-9c1ca6114789)
