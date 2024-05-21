@@ -19,7 +19,7 @@ export class ContactusComponent {
   async send() {
     try {
       debugger;
-      emailjs.init('bIOkHjsS8oTyc1suP');
+      emailjs.init('W5WDDAzKjoqKFy03OJLP1');
       let response = await emailjs.send("service_xlvu8jr", "template_spkcqwl", {
         from_name: this.formData.name,
         to_name: "Admin",
