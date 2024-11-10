@@ -15,7 +15,7 @@ export class HomepageComponent {
     const link = document.createElement('a');
     link.setAttribute('target', '_blank');
     link.setAttribute('href', resumePath);
-    link.setAttribute('download', 'Pavan_Kharsane_Resume.pdf');
+    link.setAttribute('download', 'Pavan_Resume.pdf');
 
     document.body.appendChild(link);
     link.click();
