@@ -10,7 +10,7 @@ export class HomepageComponent {
   constructor() { }
 
   downloadResume(): void {
-    const resumePath = 'assets/Pavan Resume.pdf';
+    const resumePath = 'assets/Pavan_Resume.pdf';
 
     const link = document.createElement('a');
     link.setAttribute('target', '_blank');
